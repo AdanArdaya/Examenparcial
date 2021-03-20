@@ -17,6 +17,5 @@ namespace Parcial1_AdanArdayaDominguez.Models
         public string Descripcion  { get; set; }
         public List<Curreny> Cuerrencies  { get; set; }
 
-      
     }
 }
